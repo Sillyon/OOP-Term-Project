@@ -1,4 +1,8 @@
 # OOP-Term-Project
 Autopark Automation System
 
-![TermProject](TermProject.pdf)
+<object data="http://yoursite.com/TermProject.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Sillyon/OOP-Term-Project/blob/master/TermProject.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
